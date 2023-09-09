@@ -1,5 +1,5 @@
 # ChipTable
-This is an on-chain interim solution to ERS. It will provide a simple chip lookup table for vendors. 
+This is an on-chain interim solution to [ERS](https://ethereum-magicians.org/t/a-proposal-for-the-ethereum-reality-service/9694). It will provide a simple chip lookup table for vendors. 
 
 ## Design
 ### Owner
